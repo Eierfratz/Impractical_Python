@@ -19,7 +19,7 @@ first = ("Jörgito", "Kalle", "Nikolaus", "Hannes", "Hinnerk", "Heini",
          "Engbert", "Ewald", "Fernando", "Arnulf", "Dorothea", "Annette",
          "Berta", "Bertold", "Burda", "Roswita", "Drehbert")
 
-last =  ("Geils-Lindemann", "Schedensack", "Käseberg", "Gellenbert",
+last =  ("Geils-Lindemann", "Schedensack", "Käseberg", "Gellenbert", "Fickfotz",
          "Schönblau", "Stöhnsau", "Zumthor", "Özdemir", "Özil", "Tamtam",
          "Petrisack", "Hosentod", "Rabimmelt", "Rammelt", "Drehbert",
          "Brotkorb", "Furzbirne", "Bremsbirne", "Türknauf", "Teppichwech",
@@ -29,7 +29,8 @@ last =  ("Geils-Lindemann", "Schedensack", "Käseberg", "Gellenbert",
          "Tummpattel", "Geizknüppel", "Fischkopp", "Klingelsack", "Hartung",
          "Hauknecht", "Eulenberg", "Summser", "Stroganoff", "Steckrinski",
          "Brillenraub", "Lücke", "Risse", "Rüssel", "Hundeangst", "Luftikuss",
-         "Flausen-im-Kopf", "Flusensack", "Ölschläger", "Schwimmbutz")
+         "Flausen-im-Kopf", "Flusensack", "Ölschläger", "Schwimmbutz",
+         "Lotzfeck", "Tanzgoll", "Ganztroll", "Schwurbelstar")
 
 spruch_1 = f"\n{Fore.BLUE}Und hier die weitere Auswahl...\n"
 spruch_2 = f"\n{Fore.GREEN}Und noch einmal fünf Schenkelklopfer:\n"
