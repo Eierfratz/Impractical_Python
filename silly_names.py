@@ -17,7 +17,9 @@ first = ("Jörgito", "Kalle", "Nikolaus", "Hannes", "Hinnerk", "Heini",
          "Carletto", "Daniel", "Maritsa", "Steffen", "Achmed", "Ilona",
          "Maurizio", "Jakobus", "Thaddeus", "Wolfgang", "Amadeus", "Ingwer",
          "Engbert", "Ewald", "Fernando", "Arnulf", "Dorothea", "Annette",
-         "Berta", "Bertold", "Burda", "Roswita", "Drehbert", "Herbert")
+         "Berta", "Bertold", "Burda", "Roswita", "Drehbert", "Herbert",
+         "Heribert", "Lasmiranda", "Axel", "Nikodemus", "Fiete", "Mampffred",
+         "Fridolin", "Noelia", "Gloria", "Lola", "Erwin")
 
 last =  ("Geils-Lindemann", "Schedensack", "Käseberg", "Gellenbert", "Fickfotz",
          "Schönblau", "Stöhnsau", "Zumthor", "Özdemir", "Özil", "Tamtam",
@@ -30,12 +32,16 @@ last =  ("Geils-Lindemann", "Schedensack", "Käseberg", "Gellenbert", "Fickfotz"
          "Hauknecht", "Eulenberg", "Summser", "Stroganoff", "Steckrinski",
          "Brillenraub", "Lücke", "Risse", "Rüssel", "Hundeangst", "Luftikuss",
          "Flausen-im-Kopf", "Flusensack", "Ölschläger", "Schwimmbutz",
-         "Lotzfeck", "Tanzgoll", "Ganztroll", "Schwurbelstar")
+         "Lotzfeck", "Tanzgoll", "Ganztroll", "Schwurbelstar", "Keinplandorf", "Spastikus",
+         "Schneckenschiss", "Biernot", "Dennsiewillja", "Heißschweiß", "Ballermann",
+         "Hodenberg", "van Achtern", "Herzschmerz", "Screwmore", "Rammelheld", "Pülversack",
+         "Panzerdampf")
 
 spruch_1 = f"\n{Fore.BLUE}Und hier die weitere Auswahl...\n"
 spruch_2 = f"\n{Fore.GREEN}Und noch einmal fünf Schenkelklopfer:\n"
 spruch_3 = f"\n{Fore.YELLOW}Halt dich fest, jetzt wird's lustelig!\n"
-spruch_total = [spruch_1, spruch_2, spruch_3]
+spruch_4 = f"\n{Fore.CYAN}So, Freunde der leichten Unterhaltung:\n"
+spruch_total = [spruch_1, spruch_2, spruch_3, spruch_4]
 
 print(f"{Fore.CYAN}Hier sind unsere ersten fünf Auserwählten!\n")
 while True:
