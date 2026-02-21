@@ -17,7 +17,7 @@ first = ("Jörgito", "Kalle", "Nikolaus", "Hannes", "Hinnerk", "Heini",
          "Carletto", "Daniel", "Maritsa", "Steffen", "Achmed", "Ilona",
          "Maurizio", "Jakobus", "Thaddeus", "Wolfgang", "Amadeus", "Ingwer",
          "Engbert", "Ewald", "Fernando", "Arnulf", "Dorothea", "Annette",
-         "Berta", "Bertold", "Burda", "Roswita", "Drehbert")
+         "Berta", "Bertold", "Burda", "Roswita", "Drehbert", "Herbert")
 
 last =  ("Geils-Lindemann", "Schedensack", "Käseberg", "Gellenbert", "Fickfotz",
          "Schönblau", "Stöhnsau", "Zumthor", "Özdemir", "Özil", "Tamtam",
